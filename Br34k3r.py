@@ -10,7 +10,7 @@ __copyright__ = "Copyright 2017, Bugs_Bunny Team | Pentesting Tools"
 __version__ = "0.5"
 __status__ = "Development"
 __email__ = "chouaibhammami0@gmail.com"
-__codename__ = 'Jwt Br3ak3r'
+__codename__ = 'jWT-Br34k3r'
 __source__ ="https://github.com/chouaibhm/Bypass-Jwt"
 __info__ ="Elevation of Privilege"
 
