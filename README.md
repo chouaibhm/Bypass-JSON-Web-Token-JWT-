@@ -11,9 +11,12 @@ A JSON Web Token [JWT] consists of three parts; an encoded Header, an encoded Pa
 ## Description
 JWT-Br34k3r is an exploit for some APIs (API v2 ) today that implementing a more powerful security model using JSON Web Tokens .
 The exploit mainly for elevation the privilege and it is based upon enumerate existing users ID and  elevation the privilege with having  two option for :
- First : Brute Force the securit Key and create new Authorization Signature with new privilege .
 
- Second : Bypass JWT Authorization with initialise the algorithm used as None and eliminate the securit key part of the payload
+ 
+   First : Brute Force the securit Key and create new Authorization Signature with new privilege .
+
+
+  Second : Bypass JWT Authorization with initialise the algorithm used as None and eliminate the securit key part of the payload.
 
 
 # Apache License
